@@ -32,9 +32,7 @@ public class ApplicationKeywords extends ValidationKeywords{
 		
 	}
 	
-	public void login() {
-		
-	}
+	
 	
 	public void selectDateFromCalendar(String date) {
 		log("Selecting Date "+date);
