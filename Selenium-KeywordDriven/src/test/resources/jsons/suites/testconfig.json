@@ -1,0 +1,14 @@
+	{
+"browsers":"Chrome",
+"parallelsuites":"1",
+"testsuites":[
+	{
+	 "runmode":"Y",
+	 "name":"PortFolio Suite",
+	 "testdatajsonfile":"data//portfoliodata.json",
+	 "suitefile":"suites//portfoliosuite.json",
+	 "paralleltests":"N"
+	}
+]
+
+}

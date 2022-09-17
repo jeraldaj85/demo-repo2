@@ -1,0 +1,8 @@
+{
+	"classmethods":[
+		{
+		 "class":"testcases.CreatePortfolioTest",
+		 "methods":["createPFTest"]
+		}
+	]
+}

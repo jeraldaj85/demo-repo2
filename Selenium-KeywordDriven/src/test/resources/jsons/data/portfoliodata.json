@@ -1,0 +1,15 @@
+{
+	"testdata":[
+	{
+	   "flag":"TC-1",
+	    "data":[
+	     {
+	     "username":"jeraldaj",
+	      "password":"test",
+	     
+	     "runmode":"Y"
+	     }
+	    ]		
+	}
+]
+}

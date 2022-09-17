@@ -1,0 +1,18 @@
+{
+   "suitename":"Portfolio Suite",
+     "testcases":[
+      {
+       "name":"TC-1 Create Portfolio",
+       "parameternames":["action","testingtype","browser","datapath"],
+	   "executions":[
+		   {
+		   "runmode":"Y"
+		   "executionname":"Create New PortFolio",
+		   "dataflag":"TC-1",
+		   "parametervalues":["createPF","Smoke Tests","chrome","/src/test/resources/jsons/data/portfoliodata.json"],
+		   "methods":["createPFTest"]
+		   }
+	   ] 
+      }     
+    ]
+}
