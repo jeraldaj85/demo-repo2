@@ -16,6 +16,7 @@ public class CreatePortfolioTest extends BaseTest{
 	String password = (String) data.get("password");
 	
 	app.navigate("url_rediff");
+        app.takeScreenShot();
 	app.type("username_css", username);
 	app.type("password_xpath", password);
 	app.validateElementPresent("loginsubmit_id");
